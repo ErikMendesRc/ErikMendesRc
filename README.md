@@ -18,6 +18,8 @@
   <img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/firebase/firebase-plain.svg">
   
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/figma/figma-original.svg">
+ 
+ <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/dart/dart-original.svg">
   
   <img align="right" alt="Erik-yoda" src="https://media3.giphy.com/media/1FZqAOn4hzGO4/200w.gif?cid=82a1493bzw22z6id2z3kcoq0op863re2tb5fpqwxmawqcvvf&rid=200w.gif&ct=g">
 </div>
