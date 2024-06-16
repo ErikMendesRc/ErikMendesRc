@@ -1,9 +1,9 @@
 
 **Sobre Mim**
 
-- 💼 BackEnd Developer at [Maitha Tech](https://maitha.com.br/)
+- 💼 BackEnd Developer
 
-- ❤️ Apaixonado por Java & Flutter.
+- ❤️ Apaixonado por Java/Spring Framework & Flutter.
 
 [![My Skills](https://skillicons.dev/icons?i=java,flutter)](https://skillicons.dev)
 
