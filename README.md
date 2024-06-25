@@ -3,7 +3,7 @@
 
 - 💼 BackEnd Developer
 
-- ❤️ Apaixonado por Java/Spring Framework & Flutter.
+- ❤️ Apaixonado por Java/Spring Framework & React.
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,aws,azure,flutter,angular,html,css,ts,unreal,blender&perline=5)](https://skillicons.dev)
 
